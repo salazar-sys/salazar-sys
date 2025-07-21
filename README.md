@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hola, mi nombre es Angela Salazar
+
+Actualmente trabajo como **Consultor funcional Odoo** y estoy en estoy en proceso de formación como **Desarrolladora en Python**
+
+### 🛠️ Tecnologías y herramientas en aprendizaje y uso
+
+- 🐍 Python • PostgreSQL • Git • GitHub  
+- ⚙️ Odoo v17 • Odoo SH • XML • QWeb  
+- 💻 Linux (Ubuntu) • GitFlow  
+
 
 <!--
 **salazar-sys/salazar-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
